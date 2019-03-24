@@ -1,6 +1,6 @@
 @isTest
 public class SampleDeployClass {
- //hellopaj4
+ //hellopaj5
     public static testmethod void t1() {
         helloMethod();
 
