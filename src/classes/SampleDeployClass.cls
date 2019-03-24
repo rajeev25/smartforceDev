@@ -1,6 +1,10 @@
 @isTest
 public class SampleDeployClass {
+<<<<<<< HEAD
  //hellopaj13
+=======
+ //hellopaj12--pag
+>>>>>>> branch 'master' of https://github.com/rajeev25/smartforceDev
     public static testmethod void t1() {
         helloMethod();
 
